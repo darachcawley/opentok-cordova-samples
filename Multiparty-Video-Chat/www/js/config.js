@@ -1,5 +1,5 @@
 // Set Credentials
-var apiKey = '';
-var sessionId = '';
-var token = '';
+var apiKey = '46237382';
+var sessionId = '2_MX40NjIzNzM4Mn5-MTU0NDc5MTc4NzI3NX5IdFRacFBJa3BPcXN2dWNyTW5IVFpzYWN-fg';
+var token = 'T1==cGFydG5lcl9pZD00NjIzNzM4MiZzaWc9M2FhYWM3ZjIxNDQ3ZTYzNGU2ZTFlNjZiYjdkYTRlZjZiZjY4YzkzZDpzZXNzaW9uX2lkPTJfTVg0ME5qSXpOek00TW41LU1UVTBORGM1TVRjNE56STNOWDVJZEZSYWNGQkphM0JQY1hOMmRXTnlUVzVJVkZwellXTi1mZyZjcmVhdGVfdGltZT0xNTQ0NzkxODE0Jm5vbmNlPTAuNzE2NDA0MTc4NDkzNDU5OCZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNTQ3MzgzODEzJmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9';
 var cloudURL = 'http://localhost:3000';
